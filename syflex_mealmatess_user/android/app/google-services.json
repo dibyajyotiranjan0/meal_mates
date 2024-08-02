@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216645722799",
+    "project_id": "mealkinguser",
+    "storage_bucket": "mealkinguser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216645722799:android:97ec5baf0ae2dc305eea5a",
+        "android_client_info": {
+          "package_name": "com.example.syflex_mealmatess_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0WypzziEv20iNFxMESjpu235dpCKT1Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

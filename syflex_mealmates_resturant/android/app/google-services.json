@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909144116642",
+    "project_id": "mealkingresturant",
+    "storage_bucket": "mealkingresturant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909144116642:android:fd49430fabb5266d3a36fb",
+        "android_client_info": {
+          "package_name": "com.example.syflex_mealmates_resturant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDusFRT7SS839bfyhrro4noZDOb9OoHHgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
